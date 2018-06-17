@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img width="25%" src="./assets/logo.png">
+    <img width="25%" src="./assets/minorityhouse.jpg">
     <Todo />
+    <Hello />
   </div>
 </template>
 
